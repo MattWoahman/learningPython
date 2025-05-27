@@ -1,0 +1,4 @@
+famous_person = "Abraham Lincoln"
+quote = "Everything you read on the Internet is true!"
+
+print(famous_person + ' once said "' + quote)
