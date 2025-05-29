@@ -1,0 +1,16 @@
+wife = 'Lucy'
+print("Is wife == 'Lucy'? I predict True!")
+print(wife == 'Lucy')
+print("\nIs wife == 'Brendon'? I predict False.")
+print(wife == 'Brendon')
+print("\nDoes wife not equal Brendon? I predict True.")
+print(wife == "Brendon")
+print("\n does 12 == 14?")
+print(12 == 14)
+print("\n is 12 less than 14?")
+print(12 < 14)
+evens = [2,4,6,8,10]
+print("\nis 1 in the even list?")
+print(1 in evens)
+print("\nis 2 in the even list?")
+print(2 in evens)
